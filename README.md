@@ -64,7 +64,7 @@ def score_bin_fit(
 ### Commercial Package File Structure:
 Delivered immediately upon commercial licensing via Polar.sh:
 ```
-DECOUVERTE_A_VENDRE/
+
 ├── algorithme_champion.py        # Complete, unobfuscated Python module with K8s scheduler hook
 ├── RAPPORT_EXECUTIF_B2B.md       # Comprehensive scientific white paper & FinOps spreadsheet
 ├── SHA256_CERTIFICATE.txt        # Cryptographic certificate of authenticity & anteriority
