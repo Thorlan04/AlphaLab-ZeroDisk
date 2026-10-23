@@ -28,7 +28,7 @@ For an enterprise running a fleet of **10,000 standard cloud nodes** (e.g., AWS 
 
 ## 2. Certified Mathematical Benchmark (Argon Hardened)
 
-Evaluated across **200 production-scale trace scenarios** (500 heterogeneous container batches each) under an AST-isolated, read-only NumPy sandbox. The champion emerged from an autonomous evolutionary search over **2328 generations** and **16042 evaluated mathematical formulas**.
+Evaluated across **200 production-scale trace scenarios** (500 heterogeneous container batches each) under an AST-isolated, read-only NumPy sandbox. The champion emerged from an autonomous evolutionary search over **2313 generations** and **16042 evaluated mathematical formulas**.
 
 | Allocator / Algorithm | Avg. Nodes Needed (Lower is Better) | Volumetric Utilization | Stranded Capacity Rate | Relative Server Delta vs Baseline | Status |
 | :--- | :---: | :---: | :---: | :---: | :---: |
