@@ -21,7 +21,7 @@ This leads to a pervasive, silent financial loss known as **Stranded Resource Fr
 For an enterprise running a fleet of **10,000 standard cloud nodes** (e.g., AWS `m6i.4xlarge` at ~$0.768/hour = ~$560/month/node = **$67.2M/year**):
 - **First-Fit Heuristic (Kubernetes Base)**: Requires **10,380 nodes** due to stranded capacity.
 - **Best-Fit L2 (Current Cloud Standard)**: Requires **10,000 nodes**.
-- **AlphaLab Champion (`LagrangianTensorEntropyBarrier_v2355_1`)**: Operates the exact same workload with **9,824 nodes** (**-176 nodes**).
+- **AlphaLab Champion (`LagrangianTensorEntropyBarrier_v2356_4`)**: Operates the exact same workload with **9,824 nodes** (**-176 nodes**).
 - **Direct Annual Net Savings**: **$1,182,720 / year** directly off the cloud infrastructure invoice, with zero code rewrites.
 
 ---
@@ -35,7 +35,7 @@ Evaluated across **200 production-scale trace scenarios** (500 heterogeneous con
 | **Dot-Product Alignment** *(Panigrahy et al.)* | `165.985` | `77.65%` | `18.91%` | +1.12% servers | Academic Baseline |
 | **First-Fit Heuristic** *(Default Kube)* | `164.225` | `78.48%` | `18.05%` | +0.05% servers | Legacy Standard |
 | **Best-Fit L2-Norm** *(Cloud Industry Best)* | `164.150` | `78.52%` | `17.93%` | Baseline (0.0%) | Commercial Standard |
-| **AlphaLab Champion (`LagrangianTensorEntropyBarrier_v2355_1`)** | **`161.260`** | **`79.93%`** | **`16.42%`** | **-1.761% vs Best-Fit L2 (-1.805% vs First-Fit)** | **CERTIFIED CHAMPION** |
+| **AlphaLab Champion (`LagrangianTensorEntropyBarrier_v2356_4`)** | **`161.260`** | **`79.93%`** | **`16.42%`** | **-1.761% vs Best-Fit L2 (-1.805% vs First-Fit)** | **CERTIFIED CHAMPION** |
 
 ### Mathematical Core Innovations:
 1. **Interior-Point Logarithmic Barrier**: Penalizes residual boundary saturation -mu * sum(ln(rem_d + eps)), preventing premature exhaustion of bottleneck dimensions.
