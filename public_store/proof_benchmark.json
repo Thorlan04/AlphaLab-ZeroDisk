@@ -1,10 +1,10 @@
 {
   "title": "AlphaLab-ZeroDisk Cryptographic Proof of Benchmark & Priority",
-  "certified_at": "2026-10-27T07:31:08.972268Z",
+  "certified_at": "2026-10-27T08:19:00.088661Z",
   "algorithm_metadata": {
-    "name": "LagrangianTensorEntropyBarrier_v2427_5",
+    "name": "LagrangianTensorEntropyBarrier_v2436_3",
     "version": "1.0-commercial-ready",
-    "sha256_code_fingerprint": "058e35edf5c18a77b1c8a31c967c62459a8fccab712d480371b15d8b8bc78196",
+    "sha256_code_fingerprint": "0ff16992dadc8cda88b4fcc2ad270453d51c7c28396e3a74a3d46561460dd13c",
     "complexity": "O(1) time, O(1) space per server candidate",
     "dependencies": "Standard Python math built-in only (Zero external packages)"
   },
@@ -40,12 +40,12 @@
       }
     },
     "discovered_champion": {
-      "name": "LagrangianTensorEntropyBarrier_v2427_5",
-      "avg_servers_required": 160.58,
-      "packing_efficiency_pct": 80.26,
-      "net_infrastructure_gain_pct": 2.175
+      "name": "LagrangianTensorEntropyBarrier_v2436_3",
+      "avg_servers_required": 160.575,
+      "packing_efficiency_pct": 80.27,
+      "net_infrastructure_gain_pct": 2.178
     }
   },
-  "verification_procedure": "To verify cryptographic anteriority upon purchase: compute the SHA-256 checksum of the licensed 'score_server' implementation in algorithme_champion.py. It will match exactly: 058e35edf5c18a77b1c8a31c967c62459a8fccab712d480371b15d8b8bc78196",
-  "public_interface_mock": "def score_server(task_cpu: float, task_ram: float, task_io: float,\n                 rem_cpu: float, rem_ram: float, rem_io: float,\n                 server_load: float) -> float:\n    \"\"\"\n    Algorithme Champion : LagrangianTensorEntropyBarrier_v2427_5\n    Gain d'infrastructure certifié : +2.17% de serveurs économisés\n    Empreinte SHA-256 : 058e35edf5c18a77b1c8a31c967c62459a8fccab712d480371b15d8b8bc78196\n    Status: [CŒUR MATHÉMATIQUE PROPRIÉTAIRE SOUS LICENCE COMMERCIALE]\n    L'implémentation complète est fournie automatiquement après souscription de la licence.\n    \"\"\"\n    # [REDACTED: 8 lignes d'optimisation non-linéaire vectorielle 3D]\n    # Compatible drop-in Kubernetes Scheduler Plugin / Nomad Allocator\n    raise NotImplementedError('Code propriétaire débloqué via clé de licence.')\n"
+  "verification_procedure": "To verify cryptographic anteriority upon purchase: compute the SHA-256 checksum of the licensed 'score_server' implementation in algorithme_champion.py. It will match exactly: 0ff16992dadc8cda88b4fcc2ad270453d51c7c28396e3a74a3d46561460dd13c",
+  "public_interface_mock": "def score_server(task_cpu: float, task_ram: float, task_io: float,\n                 rem_cpu: float, rem_ram: float, rem_io: float,\n                 server_load: float) -> float:\n    \"\"\"\n    Algorithme Champion : LagrangianTensorEntropyBarrier_v2436_3\n    Gain d'infrastructure certifié : +2.18% de serveurs économisés\n    Empreinte SHA-256 : 0ff16992dadc8cda88b4fcc2ad270453d51c7c28396e3a74a3d46561460dd13c\n    Status: [CŒUR MATHÉMATIQUE PROPRIÉTAIRE SOUS LICENCE COMMERCIALE]\n    L'implémentation complète est fournie automatiquement après souscription de la licence.\n    \"\"\"\n    # [REDACTED: 8 lignes d'optimisation non-linéaire vectorielle 3D]\n    # Compatible drop-in Kubernetes Scheduler Plugin / Nomad Allocator\n    raise NotImplementedError('Code propriétaire débloqué via clé de licence.')\n"
 }
