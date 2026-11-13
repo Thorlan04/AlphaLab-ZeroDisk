@@ -79,10 +79,11 @@ cd AlphaLab-ZeroDisk
 python verify_benchmark.py
 ```
 
-### Commercial Licensing:
-The complete mathematical formulation, Kubernetes admission controller integration hook, and royalty-free enterprise deployment rights are available via Polar.sh:
+### Commercial Licensing & Free Evaluation Trial:
+Test the kernel on your own workload traces with our **secured, zero-source native `.exe` (14-day / 20-node cap, 0 €)**, or unlock the full unobfuscated Python/NumPy source code, Kubernetes admission controller integration hook, and royalty-free enterprise deployment rights via Polar.sh:
 
-[![Purchase Enterprise License](https://img.shields.io/badge/Polar.sh-Unlock%20Commercial%20License%20(Instant%20Download)-blueviolet?style=for-the-badge&logo=polar)](https://buy.polar.sh/polar_cl_3WUW5USzqkXx1U0O0PEeLM2OZxLdN0W9nmhjF05SDhM)
+[![Free Evaluation Binary](https://img.shields.io/badge/Polar.sh-Free%20Evaluation%20.EXE%20(0%20EUR%20%7C%2020--Node%20Cap)-emerald?style=for-the-badge&logo=polar)](https://buy.polar.sh/polar_cl_blPnJMGytfuqXMUdx3t3kHBaM41GAK3OCQGe91H7w3E)
+[![Purchase Enterprise License](https://img.shields.io/badge/Polar.sh-Unlock%20Commercial%20License%20(990%20EUR)-blueviolet?style=for-the-badge&logo=polar)](https://buy.polar.sh/polar_cl_3WUW5USzqkXx1U0O0PEeLM2OZxLdN0W9nmhjF05SDhM)
 [![Live Interactive Dashboard](https://img.shields.io/badge/Demo-Interactive%20FinOps%20Calculator-success?style=for-the-badge)](https://thorlan04.github.io/AlphaLab-ZeroDisk/)
 
 ---
